@@ -6,7 +6,7 @@ import (
 	"net/rpc"
 )
 
-var PORT_RPC = ":12345"
+var PORT_RPC = ":12346"
 
 type Args struct {
 	Json string
